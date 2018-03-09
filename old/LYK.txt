@@ -1,4 +1,4 @@
-#1-Başlangıç:
+# 1-Başlangıç:
 
 ##Cent Os Note: 
 Oluşturduğumuz Cent Os un klonunu Kopyalamak için sağ tık,Mac adresini işaretle,Bağlantılı seç(Çökme durumunda kurtarma imkanı olsun diye)
